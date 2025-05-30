@@ -1,0 +1,1450 @@
+{
+  "filename": "1656155290765_Merged-LDR-AR+Near",
+  "parent_path": "batch_02_data/2022-06-25_20-08-06_ADCV1-ADP1/source_pointcloud/Merged-LDR-AR+Near",
+  "unix_timestamp": 1656155290765,
+  "file_format": "pcd",
+  "capacity": 6.92,
+  "vehicle_id": "AIMMO-ADCV1",
+  "region_name": "서울 강동구",
+  "location": "천호동 447",
+  "length": 15,
+  "framerate": 10,
+  "size": "403200pts",
+  "data_purpose": "train",
+  "time": "night",
+  "road_feature": "r_cityroad",
+  "road_type": "intersection",
+  "location_feature": "other",
+  "driving_scenario": "u-turn",
+  "ego_long_vel_level": "low",
+  "season": "summer",
+  "crowd_level": "high",
+  "scene_att": "scenario",
+  "weather": "clear",
+  "contamination": "no",
+  "cloudiness": "clear",
+  "darkness_level": "low_ambient",
+  "backlight": "no",
+  "road_surface_type": "asphalt",
+  "road_surface_features": "clear",
+  "road_surface_condition": "clear",
+  "shadow_in_line": "no",
+  "damaged_line": "no",
+  "sensor_name": "Merged-LDR-AR+Near",
+  "sensor_hfov": 360,
+  "sensor_vfov": 40,
+  "gps_mode": "rtk_integer",
+  "gps_latitude": 37.53542492866625,
+  "gps_longitude": 127.13375765970876,
+  "long_velocity": 9.92,
+  "lat_velocity": -0.02,
+  "long_accel": -0.64,
+  "lat_accel": -0.27,
+  "yaw": 340.49,
+  "roll": 0.66,
+  "pitch": 3.81,
+  "rel_x": 0.0,
+  "rel_y": 0.0,
+  "annotations": [
+    {
+      "id": "1-53d4d2df-b6a8-41ff-bc29-f750aba14f02",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        0.95,
+        -3.0,
+        0.89
+      ],
+      "geometry": [
+        4.54,
+        1.92,
+        1.64
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.07
+      ],
+      "point_count": 11483,
+      "track_id": 1,
+      "occlusion": "0",
+      "scenario": "0",
+      "volume": 14.3
+    },
+    {
+      "id": "2-d9ac5bd0-3c6b-40d3-8876-e01f86333449",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        9.61,
+        -1.11,
+        0.88
+      ],
+      "geometry": [
+        4.34,
+        1.94,
+        1.62
+      ],
+      "rotation": [
+        0,
+        0,
+        0.05
+      ],
+      "point_count": 7061,
+      "track_id": 2,
+      "occlusion": "0",
+      "scenario": "0",
+      "volume": 13.64
+    },
+    {
+      "id": "3-22e0513d-4856-42fb-87a3-3fb11f919f92",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        14.3,
+        2.49,
+        0.81
+      ],
+      "geometry": [
+        4.5,
+        1.94,
+        1.48
+      ],
+      "rotation": [
+        -0.01,
+        0,
+        0.65
+      ],
+      "point_count": 3756,
+      "track_id": 3,
+      "occlusion": "0",
+      "scenario": "0",
+      "volume": 12.92
+    },
+    {
+      "id": "4-6ad72aee-3e77-4d57-a899-c1eb1353f3bd",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        -9.31,
+        0.34,
+        0.84
+      ],
+      "geometry": [
+        4.5,
+        1.7,
+        1.48
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.05
+      ],
+      "point_count": 244,
+      "track_id": 4,
+      "occlusion": "0",
+      "scenario": "0",
+      "volume": 11.32
+    },
+    {
+      "id": "5-021010e0-4195-4324-b732-da69de6697be",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        -13.31,
+        -2.48,
+        0.95
+      ],
+      "geometry": [
+        4.5,
+        1.9,
+        1.68
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.09
+      ],
+      "point_count": 276,
+      "track_id": 5,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 14.36
+    },
+    {
+      "id": "6-58fec6c4-9952-4b56-9991-819caabcea9b",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        -26.7,
+        -1.69,
+        1.16
+      ],
+      "geometry": [
+        4.5,
+        1.96,
+        1.64
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.08
+      ],
+      "point_count": 148,
+      "track_id": 6,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 14.46
+    },
+    {
+      "id": "7-1d580c2c-6c0a-49f7-839b-4abc029874b1",
+      "type": "3dbb",
+      "label": "bus",
+      "position": [
+        -42.02,
+        -0.67,
+        2.1
+      ],
+      "geometry": [
+        10.18,
+        2.84,
+        3.12
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.07
+      ],
+      "point_count": 543,
+      "track_id": 7,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 90.2
+    },
+    {
+      "id": "8-ab956a28-5b34-475b-9b25-0aff12bda860",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        23.29,
+        9.93,
+        0.63
+      ],
+      "geometry": [
+        3.52,
+        1.62,
+        1.48
+      ],
+      "rotation": [
+        0.03,
+        0.03,
+        2.73
+      ],
+      "point_count": 1020,
+      "track_id": 8,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 8.44
+    },
+    {
+      "id": "9-3ea0dd1b-5501-4db3-95c6-85502e86b893",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        16.57,
+        15.76,
+        0.61
+      ],
+      "geometry": [
+        4.92,
+        2.08,
+        1.88
+      ],
+      "rotation": [
+        0.03,
+        0.01,
+        -3.12
+      ],
+      "point_count": 2243,
+      "track_id": 9,
+      "occlusion": "0",
+      "scenario": "0",
+      "volume": 19.24
+    },
+    {
+      "id": "10-7270661e-0593-47af-aa8d-75b80c693401",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        -17.28,
+        16.27,
+        0.4
+      ],
+      "geometry": [
+        4.5,
+        1.8,
+        1.7
+      ],
+      "rotation": [
+        0.1,
+        0,
+        -3.07
+      ],
+      "point_count": 239,
+      "track_id": 10,
+      "occlusion": "0",
+      "scenario": "0",
+      "volume": 13.77
+    },
+    {
+      "id": "11-2705d535-0141-4644-9f50-424544b974c4",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        -35.09,
+        12.49,
+        0.97
+      ],
+      "geometry": [
+        4.5,
+        1.88,
+        1.62
+      ],
+      "rotation": [
+        0.05,
+        0.03,
+        3.12
+      ],
+      "point_count": 164,
+      "track_id": 11,
+      "occlusion": "0",
+      "scenario": "0",
+      "volume": 13.71
+    },
+    {
+      "id": "12-4b1d7841-ec1a-4ef4-ae2b-9fa4c16918cc",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        -40.85,
+        21.32,
+        0.33
+      ],
+      "geometry": [
+        4.5,
+        1.8,
+        1.6
+      ],
+      "rotation": [
+        0.04,
+        0,
+        3.05
+      ],
+      "point_count": 54,
+      "track_id": 12,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 12.96
+    },
+    {
+      "id": "13-608e81c1-4839-4ac5-a228-106bd606f13d",
+      "type": "3dbb",
+      "label": "bus",
+      "position": [
+        -91.86,
+        24.55,
+        2.23
+      ],
+      "geometry": [
+        12,
+        2.68,
+        3.4
+      ],
+      "rotation": [
+        0.04,
+        0,
+        3.07
+      ],
+      "point_count": 157,
+      "track_id": 13,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 109.34
+    },
+    {
+      "id": "14-a4a4ddfd-6523-4d99-8f34-947b38796f45",
+      "type": "3dbb",
+      "label": "truck",
+      "position": [
+        -101.5,
+        19.02,
+        3.13
+      ],
+      "geometry": [
+        7.46,
+        2.96,
+        3.6
+      ],
+      "rotation": [
+        0.04,
+        0,
+        3.05
+      ],
+      "point_count": 151,
+      "track_id": 14,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 79.49
+    },
+    {
+      "id": "15-5647cd5f-09dc-42a2-a6bb-c4668c72771b",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        41.23,
+        3.19,
+        1.26
+      ],
+      "geometry": [
+        4.5,
+        1.86,
+        1.54
+      ],
+      "rotation": [
+        -0.01,
+        -0.02,
+        0.63
+      ],
+      "point_count": 122,
+      "track_id": 15,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 12.89
+    },
+    {
+      "id": "16-79b57416-64d4-4858-ad8d-c8e41be2d09e",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        42.88,
+        -1.47,
+        1.3
+      ],
+      "geometry": [
+        4.5,
+        1.88,
+        1.42
+      ],
+      "rotation": [
+        -0.02,
+        -0.02,
+        0.45
+      ],
+      "point_count": 110,
+      "track_id": 16,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 12.01
+    },
+    {
+      "id": "17-8ab68fdb-11b4-43b4-915c-c0489fc2207e",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        59.15,
+        36.62,
+        0.94
+      ],
+      "geometry": [
+        4.5,
+        1.82,
+        1.84
+      ],
+      "rotation": [
+        0,
+        0.01,
+        1.47
+      ],
+      "point_count": 103,
+      "track_id": 19,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 15.07
+    },
+    {
+      "id": "18-1e7a5e90-f53a-40b0-bfd6-2acad0487c05",
+      "type": "3dbb",
+      "label": "bus",
+      "position": [
+        -99.22,
+        -6.92,
+        3.03
+      ],
+      "geometry": [
+        12,
+        2.64,
+        3.4
+      ],
+      "rotation": [
+        0.04,
+        0,
+        -0.04
+      ],
+      "point_count": 96,
+      "track_id": 20,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 107.71
+    },
+    {
+      "id": "19-0d40f3ad-39ce-45c8-931f-8bbcfc7725b4",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        -32.13,
+        32.68,
+        0.49
+      ],
+      "geometry": [
+        4.5,
+        1.8,
+        1.6
+      ],
+      "rotation": [
+        0.04,
+        0,
+        0.93
+      ],
+      "point_count": 105,
+      "track_id": 21,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 12.96
+    },
+    {
+      "id": "20-545d5d6c-c121-4ff7-934d-efff4447b64e",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        -26.46,
+        32.16,
+        0.57
+      ],
+      "geometry": [
+        4.5,
+        1.8,
+        1.6
+      ],
+      "rotation": [
+        0.01,
+        -0.04,
+        0.75
+      ],
+      "point_count": 197,
+      "track_id": 22,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 12.96
+    },
+    {
+      "id": "21-085835b2-8ebd-48ef-bb0b-67f7b874b13c",
+      "type": "3dbb",
+      "label": "truck",
+      "position": [
+        54.37,
+        57.78,
+        1.24
+      ],
+      "geometry": [
+        5,
+        1.7,
+        2.22
+      ],
+      "rotation": [
+        0,
+        0.01,
+        -1.61
+      ],
+      "point_count": 110,
+      "track_id": 23,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 18.87
+    },
+    {
+      "id": "22-eba7aa3b-778f-441b-a1c1-b3681fa67971",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        -29.96,
+        1.25,
+        1.16
+      ],
+      "geometry": [
+        4.5,
+        1.82,
+        1.66
+      ],
+      "rotation": [
+        0.01,
+        0,
+        -0.04
+      ],
+      "point_count": 53,
+      "track_id": 25,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 13.6
+    },
+    {
+      "id": "23-80f59de1-28cf-4b71-b184-e68aa7bb3326",
+      "type": "3dbb",
+      "label": "car",
+      "position": [
+        -57.09,
+        24.58,
+        0.89
+      ],
+      "geometry": [
+        4.5,
+        1.8,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0.07,
+        2.3
+      ],
+      "point_count": 79,
+      "track_id": 26,
+      "occlusion": "1",
+      "scenario": "0",
+      "volume": 12.96
+    },
+    {
+      "id": "24-7e3ba020-db8b-4e18-bde6-8ddf3d6c1637",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -10.91,
+        21.96,
+        0.23
+      ],
+      "geometry": [
+        0.34,
+        0.6,
+        1.7
+      ],
+      "rotation": [
+        0,
+        0,
+        -1.25
+      ],
+      "point_count": 112,
+      "track_id": 35,
+      "occlusion": "0",
+      "scenario": -1,
+      "volume": 0.35
+    },
+    {
+      "id": "25-6657f4ed-337d-4c21-bc6c-1aabf1e87773",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -11.38,
+        21.84,
+        0.23
+      ],
+      "geometry": [
+        0.4,
+        0.5,
+        1.5
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.94
+      ],
+      "point_count": 70,
+      "track_id": 36,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.3
+    },
+    {
+      "id": "26-8e4344df-9b77-4e54-9509-82e2d10be802",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -9.49,
+        25.02,
+        0.23
+      ],
+      "geometry": [
+        0.56,
+        0.5,
+        1.7
+      ],
+      "rotation": [
+        0,
+        0,
+        -3.12
+      ],
+      "point_count": 101,
+      "track_id": 37,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.48
+    },
+    {
+      "id": "27-f9350a98-93af-48b7-9840-ce953755f350",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -7.82,
+        26.7,
+        0.11
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.7
+      ],
+      "rotation": [
+        0,
+        0,
+        -3.12
+      ],
+      "point_count": 68,
+      "track_id": 38,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.42
+    },
+    {
+      "id": "28-fdacc097-8487-4c4c-83d4-b8b808fc9a21",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -6.48,
+        25.69,
+        0.07
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.7
+      ],
+      "rotation": [
+        0,
+        0,
+        3.12
+      ],
+      "point_count": 93,
+      "track_id": 39,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.42
+    },
+    {
+      "id": "29-becd6ab9-8bfe-4476-aac7-b0b4e2c7fe4a",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -22.43,
+        -24.39,
+        1.61
+      ],
+      "geometry": [
+        0.54,
+        0.5,
+        1.54
+      ],
+      "rotation": [
+        0,
+        0,
+        2.33
+      ],
+      "point_count": 52,
+      "track_id": 40,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.42
+    },
+    {
+      "id": "30-b8aca736-e0c0-4302-94bb-9b01edd546b5",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -13.55,
+        -20.41,
+        1.26
+      ],
+      "geometry": [
+        0.62,
+        0.5,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.09
+      ],
+      "point_count": 79,
+      "track_id": 41,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.5
+    },
+    {
+      "id": "31-81d144d8-1380-466d-8689-695b1dc59825",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -6.46,
+        -18.22,
+        1.22
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.05
+      ],
+      "point_count": 37,
+      "track_id": 42,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.4
+    },
+    {
+      "id": "32-1b60a939-55b4-424e-bc7d-f11b4f82ff52",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -6.57,
+        -18.73,
+        1.3
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.72
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.1
+      ],
+      "point_count": 74,
+      "track_id": 43,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.43
+    },
+    {
+      "id": "33-bdaa53fd-aaba-49ca-af2e-a0a5a9b3be08",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        6.4,
+        -21.31,
+        1.36
+      ],
+      "geometry": [
+        0.54,
+        0.5,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.01
+      ],
+      "point_count": 129,
+      "track_id": 44,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.43
+    },
+    {
+      "id": "34-bb468932-31eb-4297-aaa7-85a122be7514",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        6.55,
+        -22.09,
+        1.41
+      ],
+      "geometry": [
+        0.5,
+        0.62,
+        1.66
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.02
+      ],
+      "point_count": 32,
+      "track_id": 45,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.51
+    },
+    {
+      "id": "35-f7262ea6-fc13-477e-a660-4ff0b9f45bb5",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -31.16,
+        -16.48,
+        1.32
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.11
+      ],
+      "point_count": 30,
+      "track_id": 46,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.4
+    },
+    {
+      "id": "36-b8f6643f-2cfc-4030-974c-ab257aa5b08a",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -31.13,
+        -17.06,
+        1.33
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.66
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.11
+      ],
+      "point_count": 32,
+      "track_id": 47,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.41
+    },
+    {
+      "id": "37-8b75c9a8-f5c2-4e0d-aafb-d2282c68eff5",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -17.04,
+        27.39,
+        0.24
+      ],
+      "geometry": [
+        0.5,
+        0.6,
+        1.8
+      ],
+      "rotation": [
+        0,
+        0,
+        2.5
+      ],
+      "point_count": 71,
+      "track_id": 48,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.54
+    },
+    {
+      "id": "38-81155b2b-1a02-4b79-9af6-4d44b0d42312",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        18.03,
+        22.01,
+        0.56
+      ],
+      "geometry": [
+        0.68,
+        0.54,
+        1.4
+      ],
+      "rotation": [
+        0,
+        0,
+        3.14
+      ],
+      "point_count": 114,
+      "track_id": 50,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.51
+    },
+    {
+      "id": "39-f6af3f90-dd79-4ae3-8d48-119f5a7f5621",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -19.05,
+        28.49,
+        0.4
+      ],
+      "geometry": [
+        0.6,
+        0.54,
+        1.56
+      ],
+      "rotation": [
+        0,
+        0,
+        0.03
+      ],
+      "point_count": 52,
+      "track_id": 51,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.51
+    },
+    {
+      "id": "40-cac18b02-808e-4b78-a48e-2b8e4ee8fd2a",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -20.02,
+        24.62,
+        0.22
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        2.28
+      ],
+      "point_count": 51,
+      "track_id": 53,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.4
+    },
+    {
+      "id": "41-fd887136-0308-434e-9568-c1fb8e2f509a",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        28.44,
+        -19.19,
+        1.36
+      ],
+      "geometry": [
+        0.5,
+        0.56,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        1.53
+      ],
+      "point_count": 49,
+      "track_id": 54,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.45
+    },
+    {
+      "id": "42-46a013c4-5d68-4c8e-a0c5-66144ca93af5",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        27.65,
+        -19.15,
+        1.36
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        1.53
+      ],
+      "point_count": 31,
+      "track_id": 55,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.4
+    },
+    {
+      "id": "43-59c8445b-4d3e-4f22-a2ea-f91ef8f57c86",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        30.68,
+        -17.5,
+        1.26
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        1.46
+      ],
+      "point_count": 28,
+      "track_id": 56,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.4
+    },
+    {
+      "id": "44-c59ecb08-135f-4aea-975d-d02e2c727ee0",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        33.82,
+        -16.54,
+        1.19
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        1.52
+      ],
+      "point_count": 47,
+      "track_id": 57,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.4
+    },
+    {
+      "id": "45-d7fdb94f-d2ed-4bf2-b042-e7c58dd08ef2",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        36.17,
+        -16.68,
+        1.21
+      ],
+      "geometry": [
+        0.5,
+        0.6,
+        1.64
+      ],
+      "rotation": [
+        0,
+        0,
+        2.08
+      ],
+      "point_count": 44,
+      "track_id": 58,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.49
+    },
+    {
+      "id": "46-ca022684-e76f-45f2-8ab5-49ed212aa6e8",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -23.81,
+        28.42,
+        0.39
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.7
+      ],
+      "rotation": [
+        0,
+        0,
+        0.02
+      ],
+      "point_count": 41,
+      "track_id": 59,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.42
+    },
+    {
+      "id": "47-ed9721ea-dd52-4981-a088-f76b37b3ccc9",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        32.01,
+        20.86,
+        0.53
+      ],
+      "geometry": [
+        0.5,
+        0.56,
+        1.74
+      ],
+      "rotation": [
+        0,
+        0,
+        -2.24
+      ],
+      "point_count": 80,
+      "track_id": 60,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.49
+    },
+    {
+      "id": "48-6a9d568b-8749-45a6-bf40-00e90eb55b52",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        31.59,
+        21.07,
+        0.48
+      ],
+      "geometry": [
+        0.5,
+        0.58,
+        1.52
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.65
+      ],
+      "point_count": 45,
+      "track_id": 61,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.44
+    },
+    {
+      "id": "49-e4a5bd84-cc82-46d0-8ea5-2a56dffdd394",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -24.39,
+        27.9,
+        0.24
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        0.02
+      ],
+      "point_count": 22,
+      "track_id": 62,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.4
+    },
+    {
+      "id": "50-6b4e6f55-be61-4802-9ea8-2e1ac07fa8c6",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -23.23,
+        31.94,
+        0.61
+      ],
+      "geometry": [
+        0.5,
+        0.66,
+        1.74
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.9
+      ],
+      "point_count": 76,
+      "track_id": 65,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.57
+    },
+    {
+      "id": "51-a6bbece0-fe79-426a-a7af-28b098c6fb25",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -22.46,
+        31.96,
+        0.52
+      ],
+      "geometry": [
+        0.5,
+        0.54,
+        1.64
+      ],
+      "rotation": [
+        0,
+        0,
+        -1.57
+      ],
+      "point_count": 57,
+      "track_id": 66,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.44
+    },
+    {
+      "id": "52-fd8b06d0-3c80-4530-b5c1-eaf8f675e00c",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -18.98,
+        32.77,
+        0.48
+      ],
+      "geometry": [
+        0.5,
+        0.64,
+        1.76
+      ],
+      "rotation": [
+        0,
+        0,
+        2.46
+      ],
+      "point_count": 59,
+      "track_id": 73,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.56
+    },
+    {
+      "id": "53-20b5b8d7-52f1-4ae8-b01a-4adce53b7ddd",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -20.07,
+        33.02,
+        0.42
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.6
+      ],
+      "rotation": [
+        0,
+        0,
+        1.59
+      ],
+      "point_count": 56,
+      "track_id": 74,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.4
+    },
+    {
+      "id": "54-df20270c-4f5f-4d1a-bc2d-95f26e2d073f",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -20.5,
+        34.53,
+        1.05
+      ],
+      "geometry": [
+        0.5,
+        0.5,
+        1.7
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.5
+      ],
+      "point_count": 42,
+      "track_id": 83,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.42
+    },
+    {
+      "id": "55-96f96887-2f1e-4e99-b4ed-2e8ce6ac0762",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -19.49,
+        35.33,
+        1.1
+      ],
+      "geometry": [
+        0.5,
+        0.52,
+        1.7
+      ],
+      "rotation": [
+        0,
+        0,
+        -1.83
+      ],
+      "point_count": 56,
+      "track_id": 84,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.44
+    },
+    {
+      "id": "56-e5f36979-d070-487c-aa9f-d1093f9160b1",
+      "type": "3dbb",
+      "label": "adult",
+      "position": [
+        -16.24,
+        34.48,
+        0.99
+      ],
+      "geometry": [
+        0.58,
+        0.56,
+        1.7
+      ],
+      "rotation": [
+        0,
+        0,
+        3.13
+      ],
+      "point_count": 29,
+      "track_id": 85,
+      "occlusion": "1",
+      "scenario": -1,
+      "volume": 0.55
+    }
+  ]
+}

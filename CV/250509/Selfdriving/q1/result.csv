@@ -1,0 +1,2 @@
+create_time,gps_latitude,gps_longitude,address,season,yaw,roll,pitch,long_velocity,lat_velocity,long_accel
+2022-06-25 20:08:10,37.53542492866625,127.13375765970876,"강동역3번출구, 192-8, 천호대로, 성내2동, 강동구, 서울특별시, 05383, 대한민국",summer,340.49,0.66,3.81,9.92,-0.02,-0.64
